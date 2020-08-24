@@ -1,2 +1,3 @@
 # hello-world
-first go on github
+first go on GitHub
+be decisive
